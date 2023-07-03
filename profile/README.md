@@ -1,5 +1,8 @@
 - 🌱 @xotodot : dot files
 
+<hr>
+<br>
+
 
 #### ➡️ A. clone dotfles 
 ```bash
