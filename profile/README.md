@@ -1,9 +1,6 @@
 - 🌱 @xotodot : dot files
 
 
-<hr>
-
-
 
 
 ### INSTALLING
