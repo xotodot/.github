@@ -1,9 +1,5 @@
 - 🌱 @xotodot : dot files
 
-<hr>
-<br>
-
-
 #### ➡️ A. clone dotfles 
 ```bash
 # make backup of your git config
