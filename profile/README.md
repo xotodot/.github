@@ -5,7 +5,6 @@
 
 
 #### ➡️ A. clone dotfles 
-
 ```bash
 # make backup of your git config
 mv ~/.config ~/.config-bk
