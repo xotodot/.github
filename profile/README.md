@@ -1,11 +1,6 @@
 - 🌱 @xotodot : dot files
 
 
-
-
-### INSTALLING
-
-
 #### ➡️ A. clone dotfles 
 ```bash
 # make backup of your git config
