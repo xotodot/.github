@@ -1,4 +1,4 @@
-- 🌱 @xotodot : dot files
+# 🌱 @xotodot : dot files
 
 #### ➡️ A. clone dotfles 
 ```bash
