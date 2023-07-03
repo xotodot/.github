@@ -7,7 +7,7 @@
 #### ➡️ A. clone dotfles 
 ```bash
 # make backup of your git config
-mv .config .config-bk
+mv ~/.config ~/.config-bk
 # clone config sub repositories
 git clone --recurse-submodules https://github.com/xotodot/xotodot.git > /dev/null ~/.config
 ```
