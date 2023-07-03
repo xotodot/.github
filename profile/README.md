@@ -4,7 +4,9 @@
 <hr>
 
 
-### ⚡️ INSTALLING
+
+
+### INSTALLING
 
 
 #### ➡️ A. clone dotfles 
